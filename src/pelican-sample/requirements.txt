@@ -1,0 +1,2 @@
+pelican==4.0.1
+docutils==0.14
