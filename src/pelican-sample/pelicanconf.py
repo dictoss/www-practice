@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'cddc community'
 SITENAME = 'Cross Distribution Developer Camp'
-SITEURL = ''
+SITEURL = '.'
 
 PATH = 'content'
 
